@@ -2028,8 +2028,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": -16,
-											"top": -32,
+											"left": -32,
+											"top": -48,
 											"height": 13
 										},
 										{
@@ -2039,8 +2039,8 @@
 												"$ref": "AAAAAAF4FcBfANmlv+o="
 											},
 											"font": "Arial;13;1",
-											"left": 205,
-											"top": 87,
+											"left": 197,
+											"top": 79,
 											"width": 967,
 											"height": 13,
 											"text": "Soft pentru imprumuturi si restituiri carti din biblioteca"
@@ -2053,8 +2053,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": -16,
-											"top": -32,
+											"left": -32,
+											"top": -48,
 											"width": 73.67724609375,
 											"height": 13,
 											"text": "(from Model)"
@@ -2067,15 +2067,15 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": -16,
-											"top": -32,
+											"left": -32,
+											"top": -48,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 200,
-									"top": 80,
+									"left": 192,
+									"top": 72,
 									"width": 977,
 									"height": 25,
 									"stereotypeLabel": {
@@ -2093,8 +2093,8 @@
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 200,
-							"top": 80,
+							"left": 192,
+							"top": 72,
 							"width": 977,
 							"height": 825,
 							"nameCompartment": {
